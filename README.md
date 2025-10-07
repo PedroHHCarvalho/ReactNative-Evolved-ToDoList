@@ -1,4 +1,3 @@
-# ReactNative-Evolved-ToDoList
 # 📱 ReactNative - Evolved To-Do List
 
 Este projeto é uma aplicação mobile de lista de tarefas desenvolvida em **React Native** (usando **Expo**) para demonstrar proficiência em gerenciamento de estado, persistência de dados local e animações fluidas em desenvolvimento mobile.
